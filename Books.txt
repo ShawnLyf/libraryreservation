@@ -1,0 +1,7 @@
+113,Cheers,Alex,L6,available, 
+115,Maps,Jhon,L6,available, 
+121,Kiss,Leo,L9,available, 
+114,Just do it ,Alex,L8,available, 
+116,Macbook,Shawn,L9,available, 
+111,iphone,Kobe,L9,rented,s3
+112,Mouse,Luke,L9,rented,s2

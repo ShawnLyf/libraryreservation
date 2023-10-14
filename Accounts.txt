@@ -1,0 +1,8 @@
+s,s2,s2,Xudong Shen,PHD,DPIT
+s,s3,s3,John,Master,CSIT
+l,l2,l2,Jason
+a,a1,a1,Hooman
+s,s1,s1,Luke,PHD,DPIT
+l,l1,l1,Hooman
+l,l3,l3,Kobe
+s,s10,s10,Smith,PHD,DPIT
